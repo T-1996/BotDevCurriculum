@@ -22,5 +22,6 @@ Time Allotment:	 30 minutes
  **SINZA SHRESTHA**
  **Grishma DANGOL**
 ** Nelson Castillo**
+**TEJITA**
   
 
