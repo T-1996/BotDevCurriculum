@@ -18,4 +18,4 @@ This is the official documentation for BotDev LLC
     - This week is all about supplementary materials
     
 - [Additional materials](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Additional_Materials/How_to_edit_in_markdown_language.md)
-    - How to edit in Markdownl Language
+    - How to edit in Markdown Language
