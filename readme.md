@@ -1,7 +1,7 @@
 # BotDev Documentation
 
 
-## Curricula
+## STEMBot Curriculum
 
 - [Intro_to_STEMBot](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/readme.md)
     - The purpose of module one is to get the student familiar with STEMBot and its operation. Module one focuses on producing small victories for students and building their confidence and enthusiasm to pursue STEM and Robotics skills. 
