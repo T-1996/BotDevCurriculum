@@ -1,6 +1,6 @@
 # BotDev Documentation
 
-This is the official documentation for BotDev LLC
+This is the official documentation for BotDev LLC STEMBot Curricula
 
 - [Test Curricula](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md)
 
