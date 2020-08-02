@@ -39,7 +39,7 @@ b.	See Week 1 Day 4 unit: “Basic CLI Commands and Running Python Code from Ter
 # MATERIALS AND RESOURCES
 * STEMBot(s) 
 * Computer(s) 
-* Internet (Optional if the STEMBot has its own router) 
+* Internet (Optional if the STEMBot has its own router). 
 * Measuring Tape 
 * Masking Tape
 * <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/firstRun%20(1).py" target="_blank">First Run Python Code</a>
