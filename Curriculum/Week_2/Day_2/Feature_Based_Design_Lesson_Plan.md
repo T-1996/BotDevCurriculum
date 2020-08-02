@@ -5,7 +5,7 @@ Subject(s):  Intro to CADing...the Right Way
 
 Topic or Unit: Feature Based Design
 
-Grade/Level: 8th - 12th 
+Grade/Level: 5th - 12th 
 
 Time Allotment: 30 minutes
 
