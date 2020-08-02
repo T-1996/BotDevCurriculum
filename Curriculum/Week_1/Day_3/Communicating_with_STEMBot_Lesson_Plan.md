@@ -5,7 +5,7 @@
 
 **Topic or Unit:** Communication with the STEMBot
 
-**Grade/Level:** 8th grade
+**Grade/Level:** 5th-12th
 
 **Time Allotment:** 30 minutes
 
