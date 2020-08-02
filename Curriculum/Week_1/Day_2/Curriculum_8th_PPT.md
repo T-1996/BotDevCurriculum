@@ -1,4 +1,4 @@
-# Gannon University Lesson Plan
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="68" width="392">
 # VITAL INFORMATION
 Subject(s): 	Technology and Engineering
 
