@@ -5,7 +5,7 @@ Subject(s): Robotics
 
 Topic or Unit: Introduction to STEMBot	
 
-Grade/Level: 	8th Grade
+Grade/Level: 	5th-12th
 
 Time Allotment:	 30 minutes
 
