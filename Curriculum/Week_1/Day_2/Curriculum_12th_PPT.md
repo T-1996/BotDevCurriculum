@@ -4,7 +4,7 @@ Subject(s): 	Technology and Engineering
 
 Topic or Unit:	Core Concepts of Technology
 
-Grade/Level: 	12th grade
+Grade/Level: 	5th-12th grade
 
 Time Allotment:	40 minutes
 
