@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="228" width="980">
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="173" width="980">
 
 # VITAL INFORMATION
 Subject(s): Robotics	 
