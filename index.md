@@ -7,7 +7,7 @@ This is the official documentation for BotDev LLC
 ## Curricula
 
 - [Intro_to_STEMBot](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/readme.md)
-    - The purpose of week one is to get the student familiar with STEMBot and its operation.  The focus of week one is to produce small victories for students and build their confidence and enthusiasm to pursue STEM and Robotics skills. 
+    - The purpose of week one is to get the student familiar with STEMBot and its operation.  The focus of week one is to produce small victories for students and build their confidence and enthusiasm to pursue STEM and Robotics skills. The purpose of module one is to get the student familiar with STEMBot and its operation. Module one focuses on producing small victories for students and building their confidence and enthusiasm to pursue STEM and Robotics skills.
 - [STEMbot_Anatomy](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_2/readme.md)
     - The focus of week two is to get students ready to build their own robots.  Students learn the art of robot design and construction by understanding STEMBot, its components, and assembly.  
 - [STEMBot Programming](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/readme.md)
